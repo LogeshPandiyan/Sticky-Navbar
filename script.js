@@ -1,4 +1,4 @@
-    //  sticky navbar scripts 
+//  sticky navbar scripts 
 
 const nav = document.querySelector('.nav')
 window.addEventListener('scroll', fixNav)
